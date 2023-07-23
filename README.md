@@ -1,2 +1,2 @@
 # spdlog
-A C++ Fast Logging Library used as a Reference Software
+A C++ extremely Fast Logging Library used as a Reference Software
